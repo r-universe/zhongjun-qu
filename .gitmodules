@@ -8,3 +8,6 @@
 [submodule "SpuriousMemory"]
 	path = SpuriousMemory
 	url = https://github.com/cran/SpuriousMemory
+[submodule "rbreak"]
+	path = rbreak
+	url = https://github.com/cran/rbreak
