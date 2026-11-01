@@ -11,3 +11,6 @@
 [submodule "rbreak"]
 	path = rbreak
 	url = https://github.com/cran/rbreak
+[submodule "sysbreak"]
+	path = sysbreak
+	url = https://github.com/cran/sysbreak
